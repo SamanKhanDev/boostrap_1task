@@ -1,0 +1,18 @@
+.menu__right{
+    background: linear-gradient(175.93deg, #5F00D8 -10.46%, #B200F1 116.81%);
+}
+.margin__box{
+    margin-bottom: 130px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    /* height: 100vh; */
+}
+
+body {
+    height: 100vh;
+}
